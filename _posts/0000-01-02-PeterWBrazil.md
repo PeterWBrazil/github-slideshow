@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Jet Fuel doesn't melt steel beams
 Use the left arrow to go back!
